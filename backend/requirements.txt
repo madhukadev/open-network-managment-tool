@@ -1,0 +1,6 @@
+flask
+flask-cors
+psutil
+flask-socketio
+flask-sqlalchemy
+flask-bcrypt
